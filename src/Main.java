@@ -23,6 +23,7 @@ public class Main {
             System.out.println( " неверно задана ОС ");
         };
 
+
         System.out.println(  " задача №3 ");
         int year = 2021;
         int a = year % 4;
