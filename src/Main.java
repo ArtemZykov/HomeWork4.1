@@ -1,30 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println(" Домашнее задание 4 (Условные операторы) " );
-        System.out.println( " Примеры, конспект");
-        int age = 19;
-        if (age > 18) {
-            System.out.println( " Ты должен праздновать");
-            if ( age < 21 ){
-                System.out.println( " Выпей сливочного пива ");
-            }else {
-                System.out.println( " иди куда хочешь ");
-            }
-        }else if ( age > 7){
-            System.out.println( " Иди в школу ");
-        }else {
-            System.out.println( " Иди в дет сад ");
-        }
-        int age1 = 18;
-        if ( age1 == 18){
-            System.out.println( "  с окончанием ");
-        }else  if (age1 == 21 ){
-            System.out.println( " теперь тебе можно в армию");
-        }else if ( age1 == 7){
-            System.out.println( " иди в школу ");
-        }else {
-            System.out.println( " пока сказать нечего ");
-        }
 
         System.out.println( " Задача №1 ");
         int clientOs = 1;
